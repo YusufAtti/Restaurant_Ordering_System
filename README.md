@@ -1,4 +1,4 @@
-                                               ***** UPDATE WILL BE MADE *****
+                                                 ***** UPDATE WILL BE MADE *****
 
 
 
@@ -6,6 +6,12 @@
 
 
 ![Başlıksız Diyagram drawio (6)](https://github.com/YusufAtti/Restaurant_Ordering_System/assets/158186024/9432f037-d234-4f19-a920-29d2147f266c)
+
+
+
+
+
+
 
 
 
@@ -27,4 +33,4 @@
 
 
 
-                                               ***** UPDATE WILL BE MADE *****
+                                                 ***** UPDATE WILL BE MADE *****
