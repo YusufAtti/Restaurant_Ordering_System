@@ -10,11 +10,6 @@
 
 
 --Report on the project's stages of operation:
-
-
-
-
-
 1.) ![1](https://github.com/YusufAtti/Restaurant_Ordering_System/assets/158186024/f3e066cb-6a6e-41b0-9bd2-2e7131016add)
 
 2.) ![2](https://github.com/YusufAtti/Restaurant_Ordering_System/assets/158186024/f85b2d81-abbe-4542-9c47-4478af6bdef3)
